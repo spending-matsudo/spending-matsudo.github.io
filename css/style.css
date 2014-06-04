@@ -26,7 +26,7 @@ body {
   min-height: 80%;
   /*font-family: OpenSansSemibold, "Helvetica Neue", Helvetica, Arial, sans-serif;*/
   font-family: Verdana, "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
-  background: #fafafa url('../img/bg.png') bottom left no-repeat;
+  background: #fafafa url('../img/bg.png') top left no-repeat;
 }
 
 body, p, blockquote p {
