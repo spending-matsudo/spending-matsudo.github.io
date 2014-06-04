@@ -96,6 +96,7 @@ footer p {
 
 nav ul.nav.nav-tabs li {
   float: right;
+  font-weight: 800;
 }
 
 nav ul.nav.nav-tabs li a.active {
