@@ -1,6 +1,6 @@
-# 俺のゼニはどこ行った for 横浜
+# 俺のゼニはどこ行った for 松戸市
 
-wheredoesmymoney.orgの横浜バージョンです．
+wheredoesmymoney.orgの松戸市バージョンです．
 
 http://spending.jp/ で稼働しているサイトのソースコードです。
 
