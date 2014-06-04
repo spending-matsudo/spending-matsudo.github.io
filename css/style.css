@@ -19,7 +19,7 @@
 */
 
 html {
-  background-color: #331111;
+  background-color: #302222;
 }
 
 body {
@@ -106,7 +106,7 @@ nav ul.nav.nav-tabs li a.active {
 }
 
 footer {
-  background: #331111 url('../img/okfn-watermark.png') top right no-repeat;
+  background: #302222 url('../img/okfn-watermark.png') top right no-repeat;
   margin-top: 50px;
   padding: 0;
 }
