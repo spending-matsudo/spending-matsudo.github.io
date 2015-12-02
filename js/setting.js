@@ -10,8 +10,8 @@ Taxes.taxRate = 0.06; // 住民税率
 
 var OpenSpending = OpenSpending || {};
 
-OpenSpending.identifier = 'mtdbudget';
-OpenSpending.year = '2013';
+OpenSpending.identifier = 'mtdbudget2015';
+OpenSpending.year = '2015';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
 
